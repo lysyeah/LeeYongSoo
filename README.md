@@ -2,15 +2,17 @@
 <img src="https://user-images.githubusercontent.com/107594743/217143404-ae000851-612b-495b-a7d9-7f67986ddf45.jpg" width="150" height="200">
 
 * __📞Phone number__ : 010.5323.9257
+* __📧Email__ : dldydtn04@naver.com
 * __📆Birth__ : 1992.05.07
 * __🧑Sex__ : Male
 * __🤟MBTI__ : ISTP
 * __⚔The military__ : army driver - 2013.01~2014.10
 * __✏Education__ :
-  * Human education center academy - IT developer academy - 6 months
-  * Yeungnam university - materials science and engineering - dropout Junior
-  * Ocheon high school - located in Pohang
-  * Korea Polytechnics - automobile - located in Daegu - non-degree-course-one-year
+  * 2022.6 ~ 2022.12 - Human education center academy - IT developer academy - Python(Data analysis), Chatbot(Kakao), Java(Web)
+  * 2020.3 ~ 2021.2 - Korea Polytechnics - automobile - located in Daegu - non-degree-course-one-year
+  * 2011.3 ~ 2017.2 - Yeungnam university - materials science and engineering - dropout Junior
+  * 2009.3 ~ 2011.2 - Ocheon high school - located in Pohang
+  
 ## 📚Tech Stack
 <div>
  <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=JavaScript&logoColor=white"/>
