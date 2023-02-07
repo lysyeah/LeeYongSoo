@@ -1,4 +1,5 @@
 # LeeYongSoo
+* __ID Photo__ : 
 * __Birth__ : 1992.05.07
 * __Sex__ : Male
 * __MBTI__ : ISTP
