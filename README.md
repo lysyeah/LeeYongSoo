@@ -10,7 +10,7 @@
 * __✏Education__ :
   * 2022.6 ~ 2022.12 - Human education center academy - IT developer academy - Python(Data analysis), Chatbot(Kakao), Java(Web)
   * 2020.3 ~ 2021.2 - Korea Polytechnics - automobile - located in Daegu - non-degree-course-one-year
-  * 2011.3 ~ 2017.2 - Yeungnam university - materials science and engineering - dropout Junior
+  * 2011.3 ~ 2019.2 - Yeungnam university - materials science and engineering - dropout Junior
   * 2009.3 ~ 2011.2 - Ocheon high school - located in Pohang
 * __🎵Music__ : https://soundcloud.com/lysyeah
   
