@@ -36,7 +36,7 @@
 </div>
 
 ## 📚portpolio
-* 한량 프로젝트 - sts4 - spring boot - http://43.201.55.89:8080/ 
+* 한량 project - sts4 - spring boot - http://43.201.55.89:8080/ 
 * KakaoChatBot - 법률퀴즈 - The service is currently unavailable due to the shutdown of heroku service.
-* 포켓몬 콘솔 게임 - sts3 - spring
+* Pokemon console game - sts3 - spring
 
