@@ -1,6 +1,7 @@
 # LeeYongSoo
 <img src="https://user-images.githubusercontent.com/107594743/217143404-ae000851-612b-495b-a7d9-7f67986ddf45.jpg" width="150" height="200">
 
+* __Phone number__ : 010.5323.9257
 * __Birth__ : 1992.05.07
 * __Sex__ : Male
 * __MBTI__ : ISTP
