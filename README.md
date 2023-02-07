@@ -12,6 +12,7 @@
   * 2020.3 ~ 2021.2 - Korea Polytechnics - automobile - located in Daegu - non-degree-course-one-year
   * 2011.3 ~ 2017.2 - Yeungnam university - materials science and engineering - dropout Junior
   * 2009.3 ~ 2011.2 - Ocheon high school - located in Pohang
+* __🎵Music__ : https://soundcloud.com/lysyeah
   
 ## 📚Tech Stack
 <div>
