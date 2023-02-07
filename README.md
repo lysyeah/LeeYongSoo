@@ -4,7 +4,7 @@
 * __📞Phone number__ : 010.5323.9257
 * __📆Birth__ : 1992.05.07
 * __🧑Sex__ : Male
-* __MBTI__ : ISTP
+* __🤟MBTI__ : ISTP
 * __⚔The military__ : army driver - 2013.01~2014.10
 * __✏Education__ :
   * Human education center academy - IT developer academy - 6 months
@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
 </div>
 
-## Tools
+## 📚Tools
 <div>
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -35,7 +35,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 
-## portpolio
+## 📚portpolio
 * 한량 프로젝트 - sts4 - spring boot - http://43.201.55.89:8080/ 
 * KakaoChatBot - 법률퀴즈 - The service is currently unavailable due to the shutdown of heroku service.
 * 포켓몬 콘솔 게임 - sts3 - spring
