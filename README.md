@@ -45,5 +45,5 @@
 * 한량 project - sts4 - spring boot - http://43.201.55.89:8080/ 
 * KakaoChatBot - 법률퀴즈 - The service is currently unavailable due to the shutdown of heroku service.
 * Pokemon console game - sts3 - spring
-* IOS ACADEMY clone coding 
+* IOS ACADEMY clone coding
 
