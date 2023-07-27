@@ -50,7 +50,7 @@
 * Constraints practice - https://github.com/lysyeah/swift_constraints_prac
 
 
-## List of things currently studying
+## 🔥List of things currently studying
 * Instagram clone coding : https://www.youtube.com/watch?v=7UKUCZuaVlA&t=168s
 * RxSwift - https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq
 
