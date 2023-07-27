@@ -47,6 +47,7 @@
 * Pokemon console game - sts3 - spring
 -----
 * IOS ACADEMY clone coding - https://www.youtube.com/watch?v=t_mypMqSXNw&t=8090s
+* Constraints practice - https://github.com/lysyeah/swift_constraints_prac
 
 
 ## List of things currently studying
