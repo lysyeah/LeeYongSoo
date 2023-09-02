@@ -51,6 +51,9 @@
 
 
 ## 🔥List of things currently studying
-* Instagram clone coding : https://www.youtube.com/watch?v=7UKUCZuaVlA&t=168s
+* Coding bootcamp for Beginners - https://www.youtube.com/watch?v=7UKUCZuaVlA&t=168s : 문법 공부
 * RxSwift - https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq
+* 야곰 스위프트 프로그래밍 swift5
+* Async/Await - https://www.youtube.com/watch?v=ICBc6inTNZQ&t=0s
+* 
 
