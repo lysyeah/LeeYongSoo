@@ -46,7 +46,7 @@
 * KakaoChatBot - 법률퀴즈 - The service is currently unavailable due to the shutdown of heroku service.
 * Pokemon console game - sts3 - spring
 -----
-* IOS ACADEMY clone coding - https://github.com/lysyeah/iosAcademy_ToDoList
+* instagram clone coding - https://github.com/lysyeah/instagramTutorial
 * Constraints practice - https://github.com/lysyeah/swift_constraints_prac
 
 
